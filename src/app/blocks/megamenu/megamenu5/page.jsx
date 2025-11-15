@@ -19,7 +19,7 @@ function bannerData() {
       <Stack sx={{ gap: 1 }}>
         <Stack sx={{ alignItems: 'flex-start', gap: 1.5 }}>
           <Chip
-            label={<Typography variant="subtitle2">SaasAble Admin</Typography>}
+            label={<Typography variant="subtitle2">She Talks Tech Admin</Typography>}
             icon={
               <CardMedia component="img" image="/assets/images/shared/celebration.svg" sx={{ width: 16, height: 16 }} alt="celebration" />
             }
@@ -58,7 +58,7 @@ const data = {
     {
       title: 'External',
       itemsList: [
-        { title: 'Blog', link: { href: 'https://blog.saasable.io/', target: '_blank' } },
+        { title: 'Blog', link: { href: '', target: '_blank' } },
         { title: 'Documentation', link: { href: DOCS_URL, target: '_blank' } },
         { title: 'Support', link: { href: 'https://support.phoenixcoded.net/', target: '_blank' } },
         {

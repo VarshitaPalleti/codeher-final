@@ -38,13 +38,13 @@ const data = [
       {
         label: 'Why Phoenixcoded?',
         link: {
-          href: 'https://blog.saasable.io/a-decade-of-expertise-the-phoenixcoded-story-and-why-you-should-trust-us',
+          href: '',
           ...linkProps
         }
       },
       {
         label: 'About',
-        link: { href: 'https://stage.saasable.io/about', ...linkProps }
+        link: { href: '', ...linkProps }
       },
       {
         label: 'Contact Us',
@@ -90,7 +90,7 @@ const data = [
       },
       {
         label: 'Blog',
-        link: { href: 'https://blog.saasable.io/', ...linkProps }
+        link: { href: '', ...linkProps }
       },
       {
         label: 'Privacy Policy',
@@ -134,7 +134,7 @@ export default function Footer7() {
         {process.env.NEXT_PUBLIC_VERSION}
       </Typography>
       <Typography variant="body2" sx={{ maxWidth: { sm: 280 } }}>
-        Explore the different versions of our SaasAble template.
+        Explore the different versions of our She Talks Tech template.
       </Typography>
     </Stack>
   );

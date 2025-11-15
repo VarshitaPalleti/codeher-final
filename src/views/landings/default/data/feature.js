@@ -360,7 +360,7 @@ export const feature18 = {
       title: 'Top Tech Skills in Demand',
       title2: 'Master the Skills Companies Seek',
       description: 'Explore the most sought-after technical skills that recruiters prioritize in placements.',
-      image: '/assets/images/graphics/default/placement-dashboard.png',
+      image: '/assets/images/graphics/default/admin-dashboard.png',
       list: [
         { primary: 'Data Structures & Algorithms (DSA)' },
         { primary: 'Full-Stack Development (MERN, MEAN)' },
@@ -375,7 +375,7 @@ export const feature18 = {
       title: 'Soft Skills for Hiring',
       title2: 'What HRs Look For Beyond Tech',
       description: 'Understanding the behavioral and soft skills that boost employability and placement success.',
-      image: '/assets/images/graphics/default/placement-dashboard-2.png',
+      image: '/assets/images/graphics/default/admin-dashboard-2.png',
       list: [
         { primary: 'Effective Communication' },
         { primary: 'Problem-Solving Mindset' },
@@ -390,7 +390,7 @@ export const feature18 = {
       title: 'Fast-Track Your Placement',
       title2: 'Strategies for a Successful Job Hunt',
       description: 'Proven methods to enhance your resume, ace interviews, and secure top offers.',
-      image: '/assets/images/graphics/default/placement-dashboard-3.png',
+      image: '/assets/images/graphics/default/admin-dashboard-3.png',
       list: [
         { primary: 'Optimizing Your Resume' },
         { primary: 'Acing Coding Interviews' },
@@ -405,7 +405,7 @@ export const feature18 = {
       title: 'Placement Trends & Insights',
       title2: 'Where and How Students Got Hired',
       description: 'An overview of placement statistics, top recruiters, and hiring patterns.',
-      image: '/assets/images/graphics/default/placement-dashboard.png',
+      image: '/assets/images/graphics/default/admin-dashboard.png',
       list: [
         { primary: 'Highest-Paying Job Roles' },
         { primary: 'Most Active Recruiters' },

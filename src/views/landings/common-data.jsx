@@ -41,7 +41,7 @@ function footerData() {
           />
         </Stack>
         <Typography variant="body2" sx={{ color: 'text.secondary' }}>
-          SaasAble offers 200+ customizable blocks, empowering you to effortlessly design and build landing pages tailored to your product
+          She Talks Tech offers 200+ customizable blocks, empowering you to effortlessly design and build landing pages tailored to your product
           or service needs.
         </Typography>
       </Stack>
@@ -123,7 +123,7 @@ function bannerData() {
       <Stack sx={{ gap: 1 }}>
         <Stack sx={{ alignItems: 'flex-start', gap: 1.5 }}>
           <Chip
-            label={<Typography variant="subtitle2">SaasAble Admin Template</Typography>}
+            label={<Typography variant="subtitle2">She Talks Tech Admin Template</Typography>}
             icon={
               <CardMedia
                 component="img"
@@ -162,7 +162,7 @@ export const pagesMegamenu = {
       {
         title: 'General',
         itemsList: [
-          { title: 'About', link: { href: 'https://stage.saasable.io/about', ...linkProps } },
+          { title: 'About', link: { href: '', ...linkProps } },
           { title: 'Career insights', status: 'Pro' },
           { title: 'Contact Us', status: 'Pro' }
         ]
@@ -179,7 +179,7 @@ export const pagesMegamenu = {
       {
         title: 'Others',
         itemsList: [
-          { title: 'About our website', link: { href: 'https://blog.saasable.io/', ...linkProps } },
+          { title: 'About our website', link: { href: '', ...linkProps } },
           { title: 'Know more', link: { href: DOCS_URL, ...linkProps } },
           { title: 'Support', link: { href: branding.company.socialLink.support, ...linkProps } },
           {

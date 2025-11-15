@@ -228,7 +228,7 @@ export default function Hero17({ chip, headLine, captionLine, primaryBtn, videoS
             }}
             style={{ scale }}
           >
-            <GraphicsCard sx={{ border: '5px solid', borderColor: 'grey.300' }}>
+            {/* <GraphicsCard sx={{ border: '5px solid', borderColor: 'grey.300' }}>
               <video
                 playsInline
                 ref={videoRef}
@@ -243,7 +243,7 @@ export default function Hero17({ chip, headLine, captionLine, primaryBtn, videoS
               >
                 <source src={videoSrc} type="video/mp4" />
               </video>
-            </GraphicsCard>
+            </GraphicsCard> */}
           </motion.div>
         </Box>
       </ContainerWrapper>

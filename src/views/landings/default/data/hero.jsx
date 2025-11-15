@@ -32,8 +32,8 @@ export const hero = {
     )
   },
   headLine: 'Multidimensional AI Based ATS Powered Platform',
-  captionLine: 'SHE TALKS TECH: ',
-  videoSrc: 'https://d2elhhoq00m1pj.cloudfront.net/saasable-intro.mp4',
+  captionLine: 'SHE TALKS TECH',
+  videoSrc: '',
   videoThumbnail: '/assets/videos/thumbnails/intro-thumbnail.png',
   listData: [
     { image: '', title: 'Exp' },

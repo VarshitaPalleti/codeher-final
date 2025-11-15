@@ -74,7 +74,7 @@ const menuItems = [
       {
         label: 'Why Phoenixcoded?',
         link: {
-          href: 'https://blog.saasable.io/a-decade-of-expertise-the-phoenixcoded-story-and-why-you-should-trust-us',
+          href: '',
           ...linkProps
         }
       },
